@@ -7,3 +7,7 @@ This program estimates how much fabric you need to sew a garment. It is only lim
 #### Lessons Learned
 
 Last conditional statement needs remodifying. May add more conditionals and try Ruby on Rails. 
+
+#### Update
+
+Conditions are met.
